@@ -1,1 +1,1 @@
-printf ("welcome")
+done
